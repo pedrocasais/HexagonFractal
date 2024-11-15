@@ -1,3 +1,3 @@
 # HexagonFractal
 
-Plotting 2D Fractals using Modern OpenGL
+Plotting a Hexagon fractal (base convex figure is the triangle) 2D using Modern OpenGL
